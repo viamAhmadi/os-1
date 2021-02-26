@@ -1,0 +1,5 @@
+default=0
+timeout0
+
+title os-1
+kernel /boot/kernel.elf
